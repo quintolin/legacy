@@ -56,3 +56,9 @@ An unfinished prototype by Troy Goode. Uses NodeJS and PostgreSQL.
 
 - [Game prototype](https://github.com/troygoode/shintolin4.git)
 - [Database importer (v3 => v4)](https://github.com/troygoode/shintolin4-import.git)
+
+## Local backup
+
+All the versions are added to this repository as submodules.
+You can download their source code by using this command:
+`git submodule update --init`
