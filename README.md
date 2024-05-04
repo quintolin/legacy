@@ -11,22 +11,28 @@ Source code was never published, we only know it was using PHP & MySQL.
 
 The first open source version, also written by Isaac Lewis. Used Ruby and MySQL.
 
-- [Original implementation](v2/original)
-- [Fork by Hexagon](v2/fork/hexagoncode) (exact copy of original)
-- [Fork by Miko](v2/fork/Mikoko) (based on original, various changes)
-- [Fork by Sustan](v2/fork/Sustan) (outdated copy of Miko’s fork)
-- [Fork by Buttercup](v2/fork/Buttercup2k)
+- [Original implementation](https://github.com/IsaacLewis/Shintolin.git)
+- [Fork by Hexagon](https://github.com/hexagoncode/Shintolin.git)
+  (exact copy of original)
+- [Fork by Miko](https://github.com/Mikoko/Shintolin.git)
+  (based on original, various changes)
+- [Fork by Sustan](https://github.com/Sustan/Shintolin.git)
+  (outdated copy of Miko’s fork)
+- [Fork by Buttercup](https://github.com/Buttercup2k/Shintolin.git)
   (based on Miko’s fork, various changes)
-- [Fork by Val](v2/fork/valitas) (outdated copy of Buttercup’s fork)
-- [Fork by Juraz](v2/fork/JohnJuraz) (exact copy of Buttercup’s fork)
-- [Fork by wjherron](v2/fork/wjherron) (exact copy of Buttercup’s fork)
-- [Fork by PeteKeller](v2/fork/PeteKeller)
+- [Fork by Val](https://github.com/valitas/Shintolin.git)
+  (outdated copy of Buttercup’s fork)
+- [Fork by Juraz](https://github.com/JohnJuraz/Shintolin.git)
+  (exact copy of Buttercup’s fork)
+- [Fork by wjherron](https://github.com/wjherron/shintolin-source-code.git)
+  (exact copy of Buttercup’s fork)
+- [Fork by PeteKeller](https://github.com/PeteKeller/Iceege.git)
   (based on Buttercup’s fork, no changes except renaming the game to “Iceage”)
-- [Fork by anthoroe](v2/fork/anthoroe)
+- [Fork by anthoroe](https://github.com/anthoroe/LightRising.git)
   (based on Buttercup’s fork, a science fiction game named “Light Rising”,
   based on Shintolin engine but with completely customized game data/content,
   “thousands of changes to the code over five years”)
-- [Fork by Ben Sharpe](v2/fork/bsharpe)
+- [Fork by Ben Sharpe](https://github.com/bsharpe/shintolin.git)
   (based on Buttercup’s fork, “cleanup project for the exercise”)
 
 ## Version 3
@@ -34,18 +40,19 @@ The first open source version, also written by Isaac Lewis. Used Ruby and MySQL.
 The third version, re-implemented for a different infrastructure by Troy Goode
 (known in-game as Ecce). Uses NodeJS and MongoDB.
 
-- [Original implementation](v3/original)
-- [fork by nlndz](v3/fork/nlndz) (outdated copy of original)
-- [Fork by Victor Ling (a.k.a. Ionshard)](v3/fork/Ionshard)
+- [Original implementation](https://github.com/troygoode/shintolin.git)
+- [fork by nlndz](https://github.com/nlndz/shintolin-1.git)
+  (outdated copy of original)
+- [Fork by Victor Ling (a.k.a. Ionshard)](https://github.com/Ionshard/shintolin.git)
   (based on original, a few bug fixes)
-- [Fork by pillbox](v3/fork/tmpillbox)
+- [Fork by pillbox](https://github.com/tmpillbox/shintolin.git)
   (based on original, updates developer config and instructions)
-- [Fork by Juraz](v3/fork/JohnJuraz)
+- [Fork by Juraz](https://github.com/JohnJuraz/shintolin-1.git)
   (based on Pillbox’s fork, modifies hunger mechanics)
 
 ## Version 4
 
 An unfinished prototype by Troy Goode. Uses NodeJS and PostgreSQL.
 
-- [Game prototype](v4/original)
-- [Database importer (v3 => v4)](v4/import)
+- [Game prototype](https://github.com/troygoode/shintolin4.git)
+- [Database importer (v3 => v4)](https://github.com/troygoode/shintolin4-import.git)
