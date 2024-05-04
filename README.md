@@ -62,3 +62,13 @@ An unfinished prototype by Troy Goode. Uses NodeJS and PostgreSQL.
 All the versions are added to this repository as submodules.
 You can download their source code by using this command:
 `git submodule update --init`
+
+## Mirrors
+
+This repository is published to multiple core-sharing portals:
+
+- [GitHub](https://github.com/quintolin/legacy) (main mirror)
+- [GitLab](https://gitlab.com/quintolin/legacy)
+- [Bitbucket](https://bitbucket.org/quintolin/legacy)
+- [Codeberg](https://codeberg.org/quintolin/legacy)
+- [Disroot](https://git.disroot.org/quintolin/legacy)
